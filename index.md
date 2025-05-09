@@ -1,5 +1,5 @@
 ---
-title: Haloa!
+Haloa!
 ---
 
 Test
